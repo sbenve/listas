@@ -54,3 +54,13 @@ https://www.gimp.org
 VPN multiplataforma, basada en Wireguard. Anda y es muy simple.
 
 https://tailscale.com
+
+### Tiny Core Linux
+Una distro muy pequeña para proyectos muy particulares.
+
+http://tinycorelinux.net
+
+### Puppy Linux
+Una excelente distribución pequeña y potente para usar en cualquier computadora, por más vieja que sea. Es súper completa y tiene la posibilidad de correr 100% en memoria o de tener persistencia, hasta en un pendrive.
+
+https://puppylinux-woof-ce.github.io
